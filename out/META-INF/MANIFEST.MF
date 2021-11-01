@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Task3
+Class-Path: ascii-table.jar
+

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ascii-table">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Lib/ascii-table-1.1.0/out/artifacts/ascii_table_jar/ascii-table.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

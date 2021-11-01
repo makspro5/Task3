@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="Task3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Task3_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Task3.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/out/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="Task3" />
+      </element>
+      <element id="library" level="project" name="ascii-table" />
+    </root>
+  </artifact>
+</component>
